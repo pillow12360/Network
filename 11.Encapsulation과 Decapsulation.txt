@@ -1,0 +1,19 @@
+Encapsulation
+인캡슐레이션
+
+택배박스에 물건을 넣고 포장하는 일
+
+네트워크 상에서 인캡슐레이션이라고 함
+
+내용이 보이지 않는다. [단위화] 한다.
+
+러시아 전통 목각인형 마트료시카 인형과 형태가 비슷하다.
+
+L2 Frame
+header   L3
+        header   L4      TCP (Segment) 
+                header    payload#3
+
+Decapsulation 다시 내용물을 꺼내는 것
+
+종합적으로 다시 설명
